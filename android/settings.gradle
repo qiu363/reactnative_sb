@@ -1,0 +1,3 @@
+rootProject.name = 'shanbang'
+
+include ':app'
